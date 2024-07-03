@@ -1,3 +1,3 @@
-# Vue.js-first_steps
+# Vue.js First Steps
 
 Journey to learn Vue.js
